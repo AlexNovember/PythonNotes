@@ -2,7 +2,7 @@ from menu import print_menu, to_main_nenu
 from rw import start_notes, file_try
 from menu import menu
 from clear import clear
-import os, sys
+
 
 
 file_try()
